@@ -1,0 +1,7 @@
+SI:
+	Box Plots - T vs P
+		For particular node type (3)
+	Grouped Histogram - T vs Measure(Prob)
+		For 1 infection node
+	Multiple Infected Nodes
+		Comparison based on Probab

@@ -1,0 +1,31 @@
+Data:
+	SI Model: - 99
+		1 infected node (1) - 75
+			for all random files (5)
+				for all probabs (4)
+					for all nodes (3)
+				for weighted (1)
+					for all nodes (3)
+		multiple infected nodes (4) - 24
+			for random file 1 (1)
+				for probab = 0.1 (1)
+					for all nodes (3)
+				for weight (1)
+					for all nodes (3)
+	SIR Model: - 375
+		1 infected node - 375
+			for all random files (5)
+				for all timeperiods (5)
+					for all probabs (4)
+						for all nodes (3)
+					for weight (1)
+						for all nodes (3)
+	SIR degrade: - 180
+		1 infected node (1) - 180
+			for all random files (5)
+				for 4 timeperiods (4) // for timeperiod 1 it does not make sense
+					for probabs = 0.2, 0.3 (2)
+						for all nodes (3)
+					for weight (1)
+						for all nodes (3)
+		
